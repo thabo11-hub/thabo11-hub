@@ -8,9 +8,14 @@
        
 ### Connect with me:
 
- [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![twitter](./img/twitter-light.svg)](https://twitter.com/ThabovanSodi#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/ThabovanSodi#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/thabo-eldridge-sodi-5113741b5#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/thabo-eldridge-sodi-5113741b5#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![instagram](./img/instagram-light.svg)](https://instagram.com/thabo_eldridge#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/thabo_eldridge#gh-dark-mode-only)
  
 <br />
 
