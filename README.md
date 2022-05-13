@@ -1,5 +1,5 @@
 ### Hi there, I'm Thabo Eldridge Sodi 
-
+* ✉️  You can contact me at [thabosodi11@gmail.com](mailto:thabosodi11@gmail.com)
 ## I'm a Full Stack Developer!
     🌐 I'm currently working on [Koder][Ayoba]!
     👨🏾‍💻 I'm currently learning everything to grow my skills
