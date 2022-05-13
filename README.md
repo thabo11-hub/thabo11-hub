@@ -1,7 +1,7 @@
 ### Hi there, I'm Thabo Eldridge Sodi 
 
 ## I'm a Full Stack Developer!
-    🌐 I'm currently working on a [Koder][website]!
+    🌐 I'm currently working on [Koder][Ayoba]!
     👨🏾‍💻 I'm currently learning everything to grow my skills
     🤝 I like to collaborate with other developers
     📝 2022 Goals: Contribute more to Open Source projects
