@@ -46,11 +46,16 @@
 </p>
 
 
-
 <br />
 <br />
 
 ---
+
+<summary>⚡ GitHub Stats</summary>
+<br>
+  
+<img align="left" alt="thabo11-hub's Github status" src="https://github-readme-stats.vercel.app/api?username=thabo11-hub&show_icons=true&theme=tokyonight&hide_border=true" />
+</details>
 
 [twitter]: https://twitter.com/ThabovanSodi
 [instagram]: https://www.instagram.com/thabo_eldridge/
