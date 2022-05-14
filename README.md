@@ -57,6 +57,8 @@
 <img align="left" alt="thabo11-hub's Github status" src="https://github-readme-stats.vercel.app/api?username=thabo11-hub&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
 
+[![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sy-records/sy-records@output/github-contribution-grid-snake.svg)](https://github.com/sy-records)
+
 [twitter]: https://twitter.com/ThabovanSodi
 [instagram]: https://www.instagram.com/thabo_eldridge/
 [linkedin]: https://www.linkedin.com/in/thabo-eldridge-sodi-5113741b5/
