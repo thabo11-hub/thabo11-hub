@@ -1,14 +1,14 @@
-### Hi there👋 I'm Thabo Eldridge Sodi 
+### Hi 👋 I'm Thabo Eldridge Sodi 
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-currentlyUnderConstruction-2648ff?style=flat-square&logo=google-chrome)](https://)
 
 * ✉️  You can contact me at [thabosodi11@gmail.com](mailto:thabosodi11@gmail.com)
 
 ## I'm a Full Stack Developer!
-    🌐 I'm currently working on [my portfolio]!
-    👨🏾‍💻 I'm currently learning everything to grow my skills
-    🤝 I like to collaborate with other developers
-    📝 2022 Goals: Contribute more to Open Source projects
+- 🕸️ I'm currently working on [my portfolio]
+- 👨🏾‍💻 I'm currently learning everything to grow my skills
+- 🤝 I like to collaborate with other developers
+- 📝 2022 Goals: Contribute more to Open Source projects
        
 ### Connect with me:
 
