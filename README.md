@@ -12,11 +12,12 @@
 - 📝 2022 Goals: Contribute more to Open Source projects
 
 <div align="center">
-  <img align="center" alt="Gif" height="330em" style="border-radius:50px;" src="https://qph.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8">
+  <img align="center" alt="Gif" height="300em" style="border-radius:50px;" src="https://qph.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8">
 </div>
        
-### Connect with me:
+<h3 align="center">Connect with me</h3>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![twitter](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -29,7 +30,9 @@
 <br />
 
 
-## 🔧 Technologies
+
+<h2 align="center">🔧 Technologies</h2>
+
 
 ![skills](https://skillicons.dev/icons?i=html,cpp,css,js,angular,ts,wordpress,nodejs,vue,mongodb,postgres,mysql,docker,git,gitlab,figma,azure,netlify,visualstudio,vscode&theme=light)
 
