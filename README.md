@@ -10,17 +10,21 @@
 - 👨🏾‍💻 I'm currently learning everything to grow my skills
 - 🤝 I like to collaborate with other developers
 - 📝 2022 Goals: Contribute more to Open Source projects
+
+<div align="center">
+  <img align="center" alt="Gif" height="330em" style="border-radius:50px;" src="https://qph.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8">
+</div>
        
 ### Connect with me:
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/ThabovanSodi#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/ThabovanSodi#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/thabo-eldridge-sodi-5113741b5#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/thabo-eldridge-sodi-5113741b5#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/thabo_eldridge#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/thabo_eldridge#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
  
 <br />
 
