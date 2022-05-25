@@ -2,7 +2,7 @@
 <h3 align="center">I'm A fullstack developer</h3>
 
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-thabo11-hub.github.io/-2648ff?style=flat-square&logo=google-chrome)](https://thabo11-hub.github.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-ThaboSodi-2648ff?style=flat-square&logo=google-chrome)](https://thabo11-hub.github.io/)
 
 * ✉️  You can contact me at [thabosodi11@gmail.com](mailto:thabosodi11@gmail.com)
 
