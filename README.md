@@ -34,7 +34,7 @@
 <h2 align="center">🔧 Technologies</h2>
 
 
-![skills](https://skillicons.dev/icons?i=html,cpp,css,js,angular,ts,wordpress,nodejs,vue,mongodb,postgres,mysql,docker,git,gitlab,figma,azure,netlify,visualstudio,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,cpp,css,js,angular,ts,wordpress,nodejs,vue,mongodb,postgres,mysql,docker,git,gitlab,figma,azure,netlify,react,vercel,visualstudio,vscode&theme=light)
 
 
 <br />
