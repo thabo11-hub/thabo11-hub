@@ -4,7 +4,6 @@
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-ThaboSodi-2648ff?style=flat-square&logo=google-chrome)](https://thabo11-hub.github.io/)
 
-* ✉️  You can contact me at [thabosodi11@gmail.com](mailto:thabosodi11@gmail.com)
 
 - 🕸️ I'm currently working on [my portfolio]
 - 👨🏾‍💻 I'm currently learning everything to grow my skills
