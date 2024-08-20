@@ -2,7 +2,7 @@
 <h3 align="center">I'm A fullstack developer</h3>
 
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-ThaboSodi-2648ff?style=flat-square&logo=google-chrome)]([https://thabo11-hub.github.io/](https://thabo11-hub-next-js-portfolio2024.vercel.app/))
+[![website](https://img.shields.io/badge/PortfolioWebsite-ThaboSodi-2648ff?style=flat-square&logo=google-chrome)]((https://thabo11-hub-next-js-portfolio2024.vercel.app/))
 
 
 - 🕸️ I'm currently working on [my portfolio]
