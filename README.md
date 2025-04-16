@@ -5,7 +5,7 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-ThaboSodi-2648ff?style=flat-square&logo=google-chrome)](https://thabo11-hub-next-js-portfolio2024.vercel.app/)
 
 
-- 🕸️ I'm currently working on [my portfolio]
+- 🕸️ I'm currently working on [[my portfolio](https://thabo11-hub-next-js-portfolio2024.vercel.app/)]
 - 👨🏾‍💻 I'm currently learning everything to grow my skills
 - 🤝 I like to collaborate with other developers
 - 📝 2022 Goals: Contribute more to Open Source projects
